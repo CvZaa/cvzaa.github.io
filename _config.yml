@@ -5,6 +5,7 @@ description:         'A reserved <a href="https://jekyllrb.com" target="_blank">
 baseurl:             'https://cvzaa.github.io/poole/'
 paginate:            5
 permalink:           pretty
+remote-theme: poole/lanyon
 
 # Gems
 plugins:
